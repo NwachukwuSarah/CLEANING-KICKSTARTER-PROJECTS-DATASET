@@ -1,4 +1,5 @@
 CLEANING AND ORGANIZING LARGE LIST OF KICKSTARTER PROJECTS AND THEIR DETAILS USING MICROSOFT EXCEL
+
 (NOTE: Go to the excel document and click view raw file to see how the cleaning was done)
 
 PROJECT DESCRIPTION: 
