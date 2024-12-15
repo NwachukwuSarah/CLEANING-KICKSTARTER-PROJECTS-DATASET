@@ -1,5 +1,5 @@
 CLEANING AND ORGANIZING LARGE LIST OF KICKSTARTER PROJECTS AND THEIR DETAILS USING MICROSOFT EXCEL
-(NOTE: Download the raw file of the excel document to see how the cleaning was done)
+(NOTE: Go to the excel document and click view raw file to see how the cleaning was done)
 
 PROJECT DESCRIPTION: 
 For this project the data to be cleaned were data sourced from kickstarter , it contained many error such as:
