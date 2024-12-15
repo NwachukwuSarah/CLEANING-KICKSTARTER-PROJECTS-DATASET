@@ -21,22 +21,31 @@ PROJECT GOALS:
 DATA STANDARDS FOR THE PROJECT:
 
 1. S/N: 
+
    i. Use simple and unique ID for now. Make sure there are no duplicates.
 
-2. PROJECT TITLE: 
+3. PROJECT TITLE: 
+
    i. The project title should be left as it is in the website.
 
-3. PROJECT OWNER: 
+5. PROJECT OWNER: 
+
    i. The project owner column should left as it is in the website.
+
    ii. It should be in Title case.
+
    iii. Abbreviations and acronyms should be left in capitals.
+
    iv. Use & to separate multiple owner names.
 
-4. PROJECT BLURB: 
+7. PROJECT BLURB: 
+
    i. The blurb should be exactly as it is on the website.
 
-5. PROJECT CATEGORY: 
+9. PROJECT CATEGORY: 
+
    i. Leave the project categories as it is on the website
 
-6. COUNTRY:  
-   i. The Country name should be in full, not abbreviation
+11. COUNTRY:
+
+    i. The Country name should be in full, not abbreviation
